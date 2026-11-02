@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.storage/
+secrets.yaml
+configuration.yaml
+.env
